@@ -1,0 +1,21 @@
+{
+     "episode_rewards": 28.945568079430927,
+     "episode_lens": 192.36,
+     "episode_team_reward": 6.784066159686351,
+     "num_alive_reds_ratio": 0.5346153846153847,
+     "num_alive_red_platoon": 3.59,
+     "num_alive_red_company": 3.36,
+     "remaining_red_effective_force_ratio": 0.11983950176678508,
+     "num_initial_red_platoon": 8.0,
+     "num_initial_red_company": 5.0,
+     "num_alive_blues_ratio": 0.24150000000000005,
+     "num_alive_blue_platoon": 2.36,
+     "num_alive_blue_company": 2.47,
+     "remaining_blue_effective_force_ratio": 0.20138523243426967,
+     "num_initial_blue_platoon": 12.0,
+     "num_initial_blue_company": 8.0,
+     "num_red_win": 9,
+     "num_blue_win": 1,
+     "draw": 0,
+     "no_contest": 90
+}
