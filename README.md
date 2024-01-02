@@ -1,1 +1,4 @@
 # F_MARL_Transformer_Centralized-VDN
+1. [Preliminary Implementation of MARL Transformer — Centralized: VDN (1) Value Decomposition Network and Test Environments](https://medium.com/@tym406/preliminary-implementation-of-marl-transformer-centralized-vdn-1-7149d61d9d60?source=your_stories_page-------------------------------------)
+2. [Preliminary Implementation of MARL Transformer — Centralized: VDN (2) Value Decomposition Network and Pre-Training](https://medium.com/@tym406/preliminary-implementation-of-marl-transformer-centralized-vdn-2-86f7ec7e8fd7?source=your_stories_page-------------------------------------)
+3. [Preliminary Implementation of MARL Transformer — Centralized: VDN (3) Value Decomposition Network and Fine-Tuning](https://medium.com/@tym406/preliminary-implementation-of-marl-transformer-centralized-vdn-3-ac9d84a4b882?source=your_stories_page-------------------------------------)
